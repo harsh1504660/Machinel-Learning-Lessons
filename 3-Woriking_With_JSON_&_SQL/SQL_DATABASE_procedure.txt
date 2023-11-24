@@ -1,0 +1,8 @@
+*CREATING THE SQL DATABASE USING XAMP*
+
+1) open xaamp
+2) start sql and apache server
+3) go to 'localhost/phpmyadmin/'
+4) click on 'new' to create new database
+5) click on import and choose the sql file from pc
+6) hit 'import' to create sql database

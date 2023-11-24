@@ -1,0 +1,9 @@
+*FETCHING DATA FROM RAPID API*
+
+1) search for api
+2) test the endpoints
+3) see the data in results (200 ok)
+4) see the data in online json viwer
+5) copy the code snippet of python(requests)
+6) run the code in IDE
+7) for creating the dataframe refer the notebook
